@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anisha's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=anishalalwani&count_private=true&showicons=true)]()
+[![Anisha's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=anishalalwani&&theme=dracula&count_private=true&showicons=true)]()
 [![Anisha's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anishalalwani&layout=compact&langs_count=4&theme=tokyonight)]()
 
 
